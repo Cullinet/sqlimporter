@@ -4,7 +4,7 @@ SQL Importer automates file import into popular relational databases. It builds 
 ![Demo](https://www.cullinet.com/images/sql_importer_demo.gif)
 
 # Supported Databases
-Microsoft® SQL Server®, Oracle®, PostgreSQL®, Snowflake®, MySQL®, and MariaDB®.
+Microsoft SQL Server®, Oracle®, PostgreSQL®, Snowflake®, MySQL®, and MariaDB®.
 
 # Features
 Point and click import. Choose files and SQL Importer does the rest.
@@ -30,7 +30,7 @@ Easy for anyone to use.
 Works with popular relational databases.
 
 # Download
-Download the latest version from the Microsoft Store.
+The best way to get the latest version is to download from the Microsoft Store. It's free to use forever for files with under 5,000 records and up to 2 files at a time. License keys can be purchased to process more file at a time without record limits.
 
 [Download Latest Version](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
 
