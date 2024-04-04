@@ -34,5 +34,4 @@ Download the latest version from the Microsoft Store.
 
 [Download Latest Version](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
 
-[![Microsoft Store]([https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
-
+[![Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
