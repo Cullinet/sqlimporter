@@ -34,4 +34,5 @@ Download the latest version from the Microsoft Store.
 
 [Download Latest Version]([URL](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
 
-[![Microsoft Store](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
+[![Microsoft Store]([https://github.githubassets.com/images/modules/logos_page/Octocat.png](https://get.microsoft.com/images/en-us%20dark.svg))]([https://github.com](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV))
+
