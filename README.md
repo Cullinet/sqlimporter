@@ -1,5 +1,5 @@
 # SQL Importer
-SQL Importer automates file import into popular relational databases.
+SQL Importer automates file import into popular relational databases. It builds optimized table structures automatically, fixes broken records, prevents import failures by bypassing exception records, and more. 
 
 ![Demo](https://www.cullinet.com/images/sql_importer_demo.gif)
 
