@@ -3,6 +3,9 @@ SQL Importer automates file import into popular relational databases.
 
 ![Demo](https://www.cullinet.com/images/sql_importer_demo.gif)
 
+# Supported Databases
+Microsoft® SQL Server®, Oracle®, PostgreSQL®, Snowflake®, MySQL®, and MariaDB®.
+
 # Download
 Download the latest version from the Microsoft Store.
 
@@ -17,7 +20,7 @@ Fixes broken records automatically.
 
 Builds optimized table structures with properly sized columns.
 
-Attempts to detect data types intelligently.
+Attempts to detect common data types intelligently.
 
 Automatically bypasses unfixable records to keep imports moving.
 
