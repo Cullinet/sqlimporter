@@ -17,20 +17,20 @@ Attempts to detect common data types intelligently.
 
 Automatically bypasses unfixable records to keep imports moving.
 
-Duplicate column name correction.
+Corrects duplicate column names in header.
 
-Delimited and fixed-width file support.
+Supports delimited and fixed-width files.
 
-Automatically append special columns like sequence numbers and import date/time.
+Automatically appends special columns like sequence number and import date/time.
 
-Replace embedded carriage returns and line feeds, trim columns, and other fixes.
+Replaces embedded carriage returns and line feeds, trim columns, and other fixes.
 
 Easy for anyone to use.
 
 Works with popular relational databases.
 
 # Download
-The best way to get the latest version is to download from the Microsoft Store. It's free to use forever for files with under 5,000 records and up to 2 files at a time. License keys can be purchased to process more file at a time without record limits.
+The best way to get the latest version is to download from the Microsoft Store. It's free to use forever for files with under 5,000 records and up to 2 files at a time. License keys can be purchased to remove limits.
 
 [Download Latest Version](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
 
