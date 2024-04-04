@@ -32,6 +32,6 @@ Works with popular relational databases.
 # Download
 Download the latest version from the Microsoft Store.
 
-[Download Latest Version]([URL](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV))
+[Download Latest Version]([URL](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
 
 [![Microsoft Store](https://apps.microsoft.com/store/detail/XP9M2FBRLMTWKV)
